@@ -1,2 +1,3 @@
-# data-visualization
-Data visualization projects
+# data-science-portfolio
+Data science portfolio
+
